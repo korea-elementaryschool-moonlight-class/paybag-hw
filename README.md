@@ -8,30 +8,24 @@ This repository has 4 folders (barcode_ecobag, barcode_user, data, sound), two .
 
 ##### 1. Folders
 
-+ barcode_ecobag
-
++ barcode_ecobag<br/>
   :arrow_right: new created ecobag barcode images are saved in this folder
 
-+ barcode_user
-
++ barcode_user<br/>
   :arrow_right: new created unique user batcode images are saved in this folder
 
-+ data
-
++ data<br/>
   :arrow_right: containing haarcascade.xml file
 
-+ sound
-
++ sound<br/>
   :arrow_right: containing sound files that are used at barcode_recognition.py
 
 
 
 ##### 2. Files
 
-+ barcode_generator.py
-
-  :arrow_right: generate barcode
-
++ barcode_generator.py<br/>
+  :arrow_right: generate barcode<br/> 
   + def : generate_number_user
   + def : generate_number_ecodbag
   + def : locate_user_barcode
@@ -40,9 +34,7 @@ This repository has 4 folders (barcode_ecobag, barcode_user, data, sound), two .
   + def : generate_barcode_user_svg
   + def : generate_barcode_ecobag_png
   + def : generate_barcode_ecobag_svg 
-
-+ barcode_recognition.py
-
-  :arrow_right: recognition barcode
-
+<br/><br/>
++ barcode_recognition.py<br/>
+  :arrow_right: recognition barcode<br/>
   + https://github.com/korea-elementaryschool-moonlight-class/paybag-hw/blob/master/bracode_recognition.py
