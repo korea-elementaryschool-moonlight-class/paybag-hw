@@ -1,7 +1,7 @@
 ### Paybag
 
 ##### Hardware, Database Notification
-
+##### Before execute programs, enter `pip install -r requirements.txt` at console
 ***
 
 This repository has 4 folders (barcode_ecobag, barcode_user, data, sound), two .py files and other files
